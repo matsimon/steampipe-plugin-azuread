@@ -12,7 +12,6 @@ updates:
     pull-request-branch-name:
       separator: "-"
     assignees:
-      - "misraved"
-      - "madhushreeray30"
+      - "matsimon"
     labels:
       - "dependencies"
